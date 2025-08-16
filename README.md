@@ -1,16 +1,27 @@
-# [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
+# 🧠 DSA Grind – LeetCode Journey
 
-## 🧠 Problem Statement:  
-You are given a positive integer `num` consisting only of digits `6` and `9`.  
-You may **change at most one digit (6 → 9 or 9 → 6)** to get the maximum possible number.  
-Return the maximum number you can obtain.  
+Welcome to my **LeetCode Problem-Solving Vault** 🚀  
+This repository is a collection of all my **Data Structures & Algorithms (DSA)** solutions from LeetCode.  
+Think of it as my personal grind log — a place where I document, learn, and improve problem-solving skills step by step.  
+
+## 🎯 Why this repo?
+- To track my daily progress on LeetCode  
+- To keep all solutions clean, optimized, and well-structured  
+- To build strong fundamentals in DSA while preparing for coding interviews  
+
+## 🧩 Topics Covered
+- Arrays & Strings  
+- Linked Lists  
+- Stacks & Queues  
+- Trees & Graphs  
+- Recursion & Backtracking  
+- Dynamic Programming  
+- Greedy Algorithms  
+- Sorting & Searching  
+
+## 🔥 Status
+This is an **ongoing journey**, with new problems added as I keep grinding 💻⚡  
 
 ---
 
-## ✅ Solution Approach:  
-- Since we want the largest number possible, we should change the **first occurrence of digit `6`** to `9`.  
-- If no `6` is found, the number is already the maximum.  
-- Steps:  
-  1. Convert the number to a string.  
-  2. Replace the first `6` with `9`.  
-  3. Convert back to integer.  
+⭐ If you vibe with the grind, don’t forget to star the repo!
