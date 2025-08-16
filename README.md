@@ -1,4 +1,4 @@
-# 🧠 DSA Grind – LeetCode Journey
+# 🧠 DSA – LeetCode Journey
 
 Welcome to my **LeetCode Problem-Solving Vault** 🚀  
 This repository is a collection of all my **Data Structures & Algorithms (DSA)** solutions from LeetCode.  
