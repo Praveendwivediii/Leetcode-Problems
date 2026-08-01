@@ -25,3 +25,11 @@ This is an **ongoing journey**, with new problems added as I keep grinding! 💻
 ---
 
 ⭐ If you vibe with the grind, don’t forget to star the repo!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Praveendwivediii/Leetcode-Problems/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
