@@ -32,4 +32,9 @@ This is an **ongoing journey**, with new problems added as I keep grinding! 💻
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Praveendwivediii/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Praveendwivediii/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+## Array
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Praveendwivediii/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
