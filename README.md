@@ -39,4 +39,8 @@ This is an **ongoing journey**, with new problems added as I keep grinding! 💻
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/Praveendwivediii/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Praveendwivediii/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Praveendwivediii/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
